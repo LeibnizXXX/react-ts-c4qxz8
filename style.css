@@ -1,0 +1,26 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.container {
+  background: purple;
+  width: 150px;
+  height: 500px;
+}
+.area1 {
+  background: green;
+  height: 50px;
+}
+.area2 {
+  background: red;
+  height: 50px;
+}
+.area3 {
+  background: blue;
+  height: 50px;
+}
+.area4 {
+  background: yellowgreen;
+  height: 50px;
+}
